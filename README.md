@@ -1,16 +1,20 @@
-# assignment
+# Finder App
 
-A new Flutter project.
+This is a Flutter mobile application designed to help users find colleges, schools and exams. The app provides a user-friendly interface with three main screens dedicated to different functionalities related to finding colleges, schools and exams.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+1. **Home Page**: Allows users to select between colleges, schools and exams.
+2. **Top Colleges**: Users can selected between wide range of top colleges.
+3. **College Details**: Provides detailed information about each college including location, hostels , admission requirements, contact information, etc.
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Prerequisites
+- Flutter SDK: Install Flutter by following the official Flutter installation guide: [Flutter Installation](https://flutter.dev/docs/get-started/install)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Steps
+1. Clone the repository: `git clone https://github.com/dontaskit28/find-college-task.git` 
+2. Change into the project directory: `cd find-college-task` 
+3. Install dependencies: `flutter pub get`
+5. Build and run the application: `flutter run`
